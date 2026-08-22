@@ -4,6 +4,9 @@ A practical fault detection and correction system built using two Arduino Unos.
 
 The system is divided into four layers, where each layer has a separate purpose. The equipment generates the parameters that need to be monitored, the interfacing layer conditions and transfers those signals, the fault detection layer identifies faults, and the fault correction layer takes action to correct them.
 
+If you want to check out the system in TinkerCAD, follow this link:
+https://www.tinkercad.com/things/kbnmc5O0Axa-equipment-fault-detection-and-correction-system?sharecode=sfHYmEkjIDALSSSCmeD4YR0qluL7mOvPm0CLrCraiaY
+
 ## System Architecture
 
 The system consists of four main layers:
